@@ -1,9 +1,4 @@
 <!doctype html>
-
-<!-- Web page "Hello World Autos"       -->
-<!-- Created by Harrison Kong           -->
-<!-- Copyright (C) Coursera 2021        -->
-
 <html lang="en">
 
 <head>
@@ -103,7 +98,6 @@
 
 <footer>
     <?php include "footer.php" ?>
-    <?php include "traits.php" ?>
 </footer>
 
 </html>
